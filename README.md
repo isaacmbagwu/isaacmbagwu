@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Isaac 👋
 
-<!--
-**isaacmbagwu/isaacmbagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Analyst** with a background in **Mechatronics Engineering**.
+I enjoy turning data into insights using **Excel, SQL, and Power BI**.
 
-Here are some ideas to get you started:
+### 🔧 Tools & Skills
+- Excel (Pivot Tables, Dashboards, Charts)
+- SQL (Data querying & analysis)
+- Power BI (Data visualization)
+- GitHub (Project documentation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+- Bike Sales Dashboard (Excel)
+- Sales Performance Analysis (Excel)
+- More projects coming soon...
+
+### 🎯 Currently Learning
+- Advanced Excel
+- Data storytelling
+- GitHub for data projects
+
+📫 **Let’s connect:**  
+[LinkedIn](linkedin.com/in/isaacmbagwu)
