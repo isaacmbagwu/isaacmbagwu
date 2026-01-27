@@ -11,7 +11,7 @@ I enjoy turning data into insights using **Excel, SQL, and Power BI**.
 
 ### 📊 Projects
 - Bike Sales Dashboard (Excel)
-- Sales Performance Analysis (Excel)
+- Online Sales Project  (Excel)
 - More projects coming soon...
 
 ### 🎯 Currently Learning
