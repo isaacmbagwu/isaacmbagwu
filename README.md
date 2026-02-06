@@ -1,6 +1,6 @@
 ## Hi, I'm Isaac 👋
 
-I'm **Data Analyst** with a background in **Mechatronics Engineering**.
+I'm a **Data Analyst** with a background in **Mechatronics Engineering**.
 I enjoy turning data into insights using **Excel, SQL, and Power BI**.
 
 ### 🔧 Tools & Skills
